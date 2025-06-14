@@ -1,6 +1,7 @@
 @echo off
 title Ultimate PC-Tuning
 
+
 :: Adminrechte prüfen
 net session >nul 2>&1
 if %errorLevel% NEQ 0 (
