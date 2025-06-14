@@ -49,6 +49,6 @@ Du willst:
 - Gaming-Only Version?
 - GUI-Menü oder PowerShell-Edition?
 - Logging der Optimierungen?
-→ Frag micht einfach nach einer erweiterten Version!
+→ Frag micht einfach nach einer erweiterten Version in Issues!
 
 ============================================================
